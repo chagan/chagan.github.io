@@ -9,8 +9,10 @@ I say playing around becuase I feel like while I've learned to do a few things r
 
 With that in mind, I want to make this my Commit Year. This is the year I commit to making myself the best possible programmer I can be. To do that, I'm trying to commit something to github everyday this year.
 
+I say that knowing it probably won't happen, and that a commit streak isn't the best sign of accomplishment. Still, I want to keep it up as long as possible, and if it falls start the next streak as soon as I can.
+
 This blog is the first step in that. I'm hosting it on github pages using jekyll (post to come), a first for me. This space will document everything I've committed and everything I've learned in the process. By doing this out in the open, I'm also hoping to keep this from becoming another forgotten New Years Resolution.
 
 In the next few days I'll be posting on my concrete goals (besides 365 days of commits) and a short run through of how I got this blog up to start with.
 
-I'm really excited to be starting this project, and look forward to what can come from it.
+I'm really excited to be starting this project, and look forward to what can come from it. I hope by the end I can not only feel better about my ability to code, but have some useful projects to show for it.
