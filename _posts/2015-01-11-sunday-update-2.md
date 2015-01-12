@@ -35,7 +35,7 @@ Oh, and another I learned is that Sublime has an option to [add spellcheck to ma
 I did a little work on the blog, adding an about page and a few other tweaks, but that leads into ...
 
 ##This week
-I missed most of the goals I wrote about last month, so a lot of them still stand.
+I missed most of the goals I wrote about last week, so a lot of them still stand.
 
 * I need to write up my formal goals list for this project
 * Continue to add features to the blog (archives, comments, etc ...)
