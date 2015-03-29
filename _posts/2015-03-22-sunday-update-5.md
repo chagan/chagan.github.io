@@ -8,7 +8,6 @@ title: Sunday Update No. 5
 * Repos contributed to: 3
 * Most popular repo: [Leaflet Slider Template](https://github.com/chagan/LeafletSliderTemplate/commits?author=chagan)
 * Most popular days: Mar. 17-20, 2 commits each
-* Favorite commit message: ["Tweaks to everything. Final version before launch. Why am I still up."](https://github.com/wbez/GradingRahm/commit/15cdc4b3c88f26af9394fc3bd40f4be3bf033258) 
 
 ##What I learned
 Last time I learned that travel and family can get in the way of side projects. This time I learned that work can have the same effect.
